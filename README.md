@@ -1,0 +1,2 @@
+# SpleeterDebugPython38
+SpleeterDebugPython38,分离视频文件中的人声和背景音效，离线可执行，支持WIN7以上操作系统
